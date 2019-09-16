@@ -1,6 +1,6 @@
 {
   "name": "@pikaqiumiao/module-1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "git_data_fe_joint <git_data_fe_joint@meituan.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pikaqiumiao/core": "^0.0.0",
+    "@pikaqiumiao/core": "^0.0.1",
     "lodash": "^4.17.15"
   }
 }
